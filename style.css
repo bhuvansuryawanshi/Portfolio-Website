@@ -269,3 +269,16 @@ li {
 
 
 }
+
+
+@media screen and (max-width: 372px) {
+    
+    .allbtn{
+        margin-bottom: 50px;
+    }
+
+    .skilldist{
+        margin-top: 95px;
+    }
+    
+}
